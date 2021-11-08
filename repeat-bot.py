@@ -3,7 +3,7 @@ import discord
 import yaml
 
 
-with open("config.yml", "r") as ymlfile:
+with open("discord_config.yml", "r") as ymlfile:
     configs = yaml.safe_load(ymlfile)
 
 print(configs)
