@@ -1,0 +1,10 @@
+Requirements:
+Python 3.10 code that successfully uses a Discord Bot to periodically post to a specified server. For test case, just have it post "Lorem Ipsum" or "Hello World" to the server.
+For items such as server details, credentials, times to post etc, please use a config file. ConfigParser, yaml, etc doesn't matter; whatever is easiest for you.
+
+Deliverables:
+- Instructions on how to run / what I need to do to replicate
+- A requirements.txt file
+- Working code/server example, including .py files and .config files
+
+Expected LOE: < 10 hours
