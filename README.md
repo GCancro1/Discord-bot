@@ -10,14 +10,15 @@ Python 3.10 code that successfully uses a Discord Bot to periodically post to a 
 2. Run setup.sh 
 3. Ask me for the discord_config.yml file which contains the bot and guild token keys
 
-### Current progress
+### Discord_config
 
-* Setup environment stuff
-* Learning about Discord API
-* Repeat-bot.py demonstrates basics of messaging in channels
+token: your discord api token
+guild: this is the server you want to access
+channel: this is the channel you want to message in
+message_files: list of txt files to read and send in the text channel specified
 
-### TODO
+### Sending messages
+Once the message_files are written to, calling repeat_bot.run() will write all the message_files to the channel
 
-* Determine scheduling
-* Figure out what will be sent, write script that can read config and input to output to text channel of choice
-* Write script to call instance of discord bot and tear down instead of the 24/7 running of it
+The repeat bot is set when ready to send the messages and close the client. If you would like to keep the bot in the channel get rid of the client.close. 
+(Note the repeat function I have demonstrates how the bot can be active in channel)

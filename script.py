@@ -415,4 +415,4 @@ with open(ranking_outfile, "w") as f:
     f.write(pr_str)
 
 
-# repeat_bot.run()
+repeat_bot.run()
