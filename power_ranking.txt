@@ -1,8 +1,9 @@
+
+
 Power Rankings: Week 13
 
 These rankings are based off of actual performance, performance vs the median, and a monte carlo simulation based on team performance thus far this season
 -------------------------------------
-
 Manager  Wins  Losses  Ranking
   Robby    23       2        1
    Tony    17       8        2

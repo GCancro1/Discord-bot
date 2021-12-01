@@ -1,3 +1,5 @@
+
+
 WINNERS: WINNERS: Robby (vs Tony), Kade (vs Matt), Ric (vs Tim), Erik (vs BJ), Chris (vs Joey) 
 
 LOSERS: LOSERS: Tony (vs Robby), Matt (vs Kade), Tim (vs Ric), BJ (vs Erik), Joey (vs Chris) 
@@ -17,3 +19,5 @@ Top Scoring Players by Position
 3       RB    40.6     Leonard Fournette   Erik
 4       TE    19.3        Rob Gronkowski   Matt
 5       WR    24.2         Jaylen Waddle   Kade
+
+
