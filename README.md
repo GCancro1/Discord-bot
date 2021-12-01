@@ -13,9 +13,13 @@ Python 3.10 code that successfully uses a Discord Bot to periodically post to a 
 ### Discord_config
 
 token: your discord api token
+
 guild: this is the server you want to access
+
 channel: this is the channel you want to message in
+
 message_files: list of txt files to read and send in the text channel specified
+
 
 ### Sending messages
 Once the message_files are written to, calling repeat_bot.run() will write all the message_files to the channel
