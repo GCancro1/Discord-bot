@@ -1,0 +1,19 @@
+WINNERS: WINNERS: Robby (vs Tony), Kade (vs Matt), Ric (vs Tim), Erik (vs BJ), Chris (vs Joey) 
+
+LOSERS: LOSERS: Tony (vs Robby), Matt (vs Kade), Tim (vs Ric), BJ (vs Erik), Joey (vs Chris) 
+
+Highest Scorer: Highest Scorer: ['Erik', 163.72] 
+
+Highest Scoring Game: Highest Scoring Game: [['BJ', 'Erik'], 272.0] 
+
+Lowest Scoring Game (Boo!): Lowest Scoring Game (Boo!): [['Tim', 'Ric'], 164.28] 
+
+Top Scoring Players by Position
+-------------------------------------
+  Position  Points                  Name   Team
+0      DEF    19.0  New England Patriots  Robby
+1        K    20.0             Nick Folk    Ric
+2       QB    28.7            Josh Allen   Joey
+3       RB    40.6     Leonard Fournette   Erik
+4       TE    19.3        Rob Gronkowski   Matt
+5       WR    24.2         Jaylen Waddle   Kade

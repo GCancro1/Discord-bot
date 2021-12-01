@@ -1,0 +1,16 @@
+Power Rankings: Week 13
+
+These rankings are based off of actual performance, performance vs the median, and a monte carlo simulation based on team performance thus far this season
+-------------------------------------
+
+Manager  Wins  Losses  Ranking
+  Robby    23       2        1
+   Tony    17       8        2
+   Erik    16       9        3
+   Matt    16       9        4
+   Kade    12      13        5
+  Chris    11      14        6
+   Joey     9      16        7
+    Tim     8      17        8
+    Ric     7      18        9
+     BJ     6      19       10
